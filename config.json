@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-gui-todo-app",
+      "title": "Aplicativo de Tarefas com Interface Gráfica",
+      "description": "Construir uma aplicação visual em Python usando Tkinter para gerenciar tarefas diárias.",
+      "path": "assignments/python-gui-todo-app",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
