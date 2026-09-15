@@ -20,11 +20,11 @@ Os cabeçalhos das seções devem usar a mesma estrutura do template, incluindo 
 ```md
 # 📘 Atividade: [Título da Atividade]
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 [breve descrição do objetivo]
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ [Título da Tarefa]
 

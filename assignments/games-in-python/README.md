@@ -1,11 +1,11 @@
 
 # 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Pratique o uso de strings, listas, loops e condicionais para criar um jogo interativo em Python, onde o jogador tenta adivinhar uma palavra antes de esgotar as tentativas.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Criar a lógica principal do jogo
 
